@@ -1,11 +1,5 @@
 Project 2: LSTMs for Language Detection
 
-Murali Raghu Babu Balusu, Audrija Mukherjee
-GaTech id: 903241955 , 903225854
-GaTech username: mbalusu3, amukherjee44
-Email: b.murali@gatech.edu (or) muraliraghubabu1994@gmail.com; amukherjee44@gatech.edu
-Phone: 470-338-1473, 404-910-9919
-
 SW required: Python 2.7, tf 1.0.1
 
 Instructions to Run the code: The code is pretty well documented into blocks and comments explaining each block are given in 
