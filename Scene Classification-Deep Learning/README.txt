@@ -6,6 +6,6 @@ As mentioned in the project description- Handing In section, the code folder con
 Final Part 1 accuracy after solving all 4 problems(120 epochs) = 0.5653 (lowest validation error=0.4346)
 Final Part 2 accuracy(10 epochs) = 0.878 (lowest validation error=0.122)
 
-Report in html folder- index.html
+(See Report for details)
 
 
