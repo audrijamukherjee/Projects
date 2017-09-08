@@ -1,3 +1,5 @@
+FAKE NEWS DETECTOR:
+
 S/w - Python 2.7, nltk, sklearn, google chrome, javascript, html, npm, node(tested on mac os)
 
 1. real_articles_get_urls - stores URLs of real news articles as output1.csv
@@ -7,7 +9,7 @@ S/w - Python 2.7, nltk, sklearn, google chrome, javascript, html, npm, node(test
 5. create_train_test - combines real, fake cleaned content, labels, trains the model, has test set prediction method for 500 test samples and queryfakeness for single query
 6. results - writes the output in nice format 'URL','Content','Cleaned_Content','True_labels','Predicted_labels','Confidence' to Results.csv (for test dataset)
 
-Supporting files for quick execution - before_clean_fake.npy, before_clean_real.npy, Fake_clean.npy, Real_clean.npy, SVC.pkl
+Supporting files needed for quick execution - before_clean_fake.npy, before_clean_real.npy, Fake_clean.npy, Real_clean.npy, SVC.pkl
 
 Plug In- all other files
 
@@ -18,7 +20,7 @@ Shortcut to execute:
 4. Go to any site and click on the little FAKE icon on the right top corner, the score will appear
 
 
-Actual Steps to execute
+Actual Steps to execute from scratch:
 1. Run all python scripts in the above order including create_train_test.py
 2. Add the Pred_plug_in as an extension to chrome
 3. Disable Adblock on chrome
