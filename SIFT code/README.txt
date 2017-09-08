@@ -10,7 +10,3 @@ Extra credit:
 3. Add spatial information
 4. Soft assignment of visual words to histogram bins
 
-
-NOTE: 
-1. My code runs in about 11 minutes on my 4GB RAM(Windows), so it should run on an 8 GB RAM in under 10 minutes.
-2. Commented line 35 of proj4.m run('vlfeat/toolbox/vl_setup'). Since I am not supposed to submit the vlfeat folder, if the code is run directly from my submission, this line would not work.
