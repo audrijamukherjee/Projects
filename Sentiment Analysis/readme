@@ -1,4 +1,3 @@
-• Applied Google word2vec (pre-trained and retrained model) with bag of centroids to featurize IMDB movie reviews.
-• Compared results with features obtained from LDA (Latent Dirichlet Allocation) topic modelling, by testing on 25000 movie
-reviews using Random Forests for predicting positive or negative sentiment of reviews.
-• Inferred that retrained Google word2vec model gives best predictions for this dataset.
+• Developed models for predicting sentiment of 25000 movie reviews using Random Forests.
+• Compared performance between LDA(Latent Dirichlet Allocation) topic modelling and bag of features from retrained Word2Vec. 
+• Inferred that retrained Word2Vec model gives better predictions for this dataset.
