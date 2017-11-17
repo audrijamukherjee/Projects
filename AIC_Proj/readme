@@ -1,5 +1,6 @@
 FAKE NEWS DETECTOR:
 
+Demo link: https://drive.google.com/open?id=0B1u-bBQcJpbucEFiTEhlWHlENDQ
 S/w - Python 2.7, nltk, sklearn, google chrome, javascript, html, npm, node(tested on mac os)
 
 1. real_articles_get_urls - stores URLs of real news articles as output1.csv
